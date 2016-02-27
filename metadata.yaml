@@ -1,0 +1,32 @@
+_repo: The-Life-of-Henry-the-Eighth_1541
+alternative_title: The Life of Henry VIII
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: King Henry is married to Katherine of Aragon, but he has been smitten
+  by the charms of the Queen's Maid of Honor, Anne Bullen, and is tempted to divorce
+  his dignified and noble wife.
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry, VIII, King of England, 1491-1547 -- Drama'
+- !lcc 'PR'
+- !lcsh 'Historical drama'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Drama'
+- !lcsh 'Great Britain -- Kings and rulers -- Drama'
+title: The Life of Henry the Eighth
+url: http://www.gutenberg.org/ebooks/1541
