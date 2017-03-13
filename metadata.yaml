@@ -1,6 +1,9 @@
 _repo: The-Life-of-Henry-the-Eighth_1541
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Life of Henry VIII
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -15,6 +18,8 @@ creator:
 description: King Henry is married to Katherine of Aragon, but he has been smitten
   by the charms of the Queen's Maid of Honor, Anne Bullen, and is tempted to divorce
   his dignified and noble wife.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1541#The-Life-of-Henry-the-Eighth
 gutenberg_issued: '1998-11-01'
 gutenberg_type: Text
 identifiers:
