@@ -1,5 +1,5 @@
 _repo: The-Life-of-Henry-the-Eighth_1541
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: The Life of Henry VIII
 covers:
 - cover_type: generated
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Historical drama'
 - !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Drama'
 - !lcsh 'Great Britain -- Kings and rulers -- Drama'
+- GITenberg
 title: The Life of Henry the Eighth
 url: http://www.gutenberg.org/ebooks/1541
